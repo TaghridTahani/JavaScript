@@ -1,0 +1,4 @@
+//=== type
+// !== type
+//== vlaue
+// != value  
